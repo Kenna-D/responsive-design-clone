@@ -5,7 +5,6 @@ function Header(){
   return(
     <header>
       <div className='header'>Start Bootstrap</div>
-      
     </header>
   )
 }
